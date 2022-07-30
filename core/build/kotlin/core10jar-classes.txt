@@ -1,0 +1,1 @@
+/Users/federicojordan/Documents/Proyectos/LibGDX3DTest/core/build/classes/kotlin/main/com/fedejordan/libgdx3dtest/LibGDX3DTest.class

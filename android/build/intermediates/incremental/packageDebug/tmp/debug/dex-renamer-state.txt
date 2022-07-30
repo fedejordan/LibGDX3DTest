@@ -1,0 +1,4 @@
+#Fri Jul 29 03:16:01 ART 2022
+base.0=/Users/federicojordan/Documents/Proyectos/LibGDX3DTest/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

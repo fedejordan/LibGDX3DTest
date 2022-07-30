@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LibGDX3DTest.iml" filepath="$PROJECT_DIR$/.idea/modules/LibGDX3DTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/LibGDX3DTest.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/LibGDX3DTest.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/LibGDX3DTest.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/LibGDX3DTest.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/LibGDX3DTest.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/LibGDX3DTest.ios.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com.fedejordan.libgdx3dtest:string/app_name = 0x7f030000
+com.fedejordan.libgdx3dtest:drawable/ic_launcher_foreground = 0x7f020001
+com.fedejordan.libgdx3dtest:drawable/ic_launcher = 0x7f020000
+com.fedejordan.libgdx3dtest:color/ic_background_color = 0x7f010000
